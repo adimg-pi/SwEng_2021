@@ -62,5 +62,10 @@ Name: Kadobkina Elizaveta
 Added: 25.12.2021 12:30
 Name: Fomenko Nikolay
 Added: 25.12.2021 13:15
+<<<<<<< HEAD
 Name: Gurzhieva Galina
 Added: 25.12.2021 14:22
+=======
+Name: Osipyan Aram
+Added: 25.12.2021 14:52
+>>>>>>> 28ca2d2d363656aab7654f45b8d9c1baea1fea39
